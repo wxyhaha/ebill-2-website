@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/ebill-2-website/static/css/main.3a945edb.chunk.css",
+    "main.js": "/ebill-2-website/static/js/main.ae2a51d5.chunk.js",
+    "main.js.map": "/ebill-2-website/static/js/main.ae2a51d5.chunk.js.map",
+    "runtime-main.js": "/ebill-2-website/static/js/runtime-main.39dedf4c.js",
+    "runtime-main.js.map": "/ebill-2-website/static/js/runtime-main.39dedf4c.js.map",
+    "static/js/2.b0aaba0b.chunk.js": "/ebill-2-website/static/js/2.b0aaba0b.chunk.js",
+    "static/js/2.b0aaba0b.chunk.js.map": "/ebill-2-website/static/js/2.b0aaba0b.chunk.js.map",
+    "index.html": "/ebill-2-website/index.html",
+    "static/css/main.3a945edb.chunk.css.map": "/ebill-2-website/static/css/main.3a945edb.chunk.css.map",
+    "static/js/2.b0aaba0b.chunk.js.LICENSE.txt": "/ebill-2-website/static/js/2.b0aaba0b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.39dedf4c.js",
+    "static/js/2.b0aaba0b.chunk.js",
+    "static/css/main.3a945edb.chunk.css",
+    "static/js/main.ae2a51d5.chunk.js"
+  ]
+}
